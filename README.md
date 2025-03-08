@@ -48,13 +48,6 @@ void traiter_donnees(int *donnees, int taille) {
 }
 ```
 
-## Améliorations Possibles
-- Rendre la taille des données et `CHUNKSIZE` paramétrables via des arguments en ligne de commande.
-- Optimisation de la distribution de travail pour un meilleur équilibrage de charge.
-- Implémentation d'une version avec communication collective (ex: `MPI_Scatter` et `MPI_Gather`).
-
-## Licence
-Ce projet est sous licence MIT. Vous êtes libre de l'utiliser, le modifier et le distribuer.
 
 ---
 Projet réalisé dans le cadre du TP HPC 2024-2025 à l'ESI.
