@@ -51,4 +51,9 @@ void traiter_donnees(int *donnees, int taille) {
 
 ---
 Projet réalisé dans le cadre du TP HPC 2024-2025 à l'ESI.
+Réalisé par : 
+Nihel Touil
+Tarek Benameur
+
+
 
